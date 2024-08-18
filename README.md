@@ -1,2 +1,3 @@
 # donut-shop-landing-page
-learning web layout
+learning web layout and 
+git
